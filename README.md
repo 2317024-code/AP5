@@ -8,7 +8,6 @@ This project showcases my personal profile, skills and projects while demonstrat
 To design and develop a fully responsive web portfolio that integrates everything I’ve learned in front-end development — including structure, design, interactivity, and optimization techniques.
 
 ### Step-by-Step Project Development
-
 1. Project Setup
 
 Created a project folder named dev-portfolio.
