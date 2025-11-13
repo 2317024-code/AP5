@@ -10,16 +10,16 @@ To design and develop a fully responsive web portfolio that integrates everythin
 ### Step-by-Step Project Development
 1. Project Setup
 
-Created a project folder named dev-portfolio.
-
-Added essential files:
-
-index.html  
-style.css  
-script.js  
-/assets (for images, icons, and fonts)
-
-Linked the CSS and JS files to the HTML.
+      Created a project folder named dev-portfolio.
+      
+      Added essential files:
+      
+      index.html  
+      style.css  
+      script.js  
+      /assets (for images, icons, and fonts)
+      
+      Linked the CSS and JS files to the HTML.
 
 
 2️. HTML Structure
